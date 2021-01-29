@@ -1,3 +1,5 @@
+// Note: this is seed data
+
 package com.lambdaschool.bookstore;
 
 import com.lambdaschool.bookstore.models.Author;
